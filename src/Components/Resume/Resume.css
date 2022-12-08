@@ -1,0 +1,47 @@
+#resume {
+    display: flex;
+    margin: 0px 20px 0px 20px;
+    padding: 5% 0% 5% 7%;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+#resume h3 {
+    font-size: 4em;
+    margin-bottom: 20px;
+}
+
+#skill-title-holder {
+    padding-right:40px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: fadeInAnimation ease 2.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.skill-holder1, .skill-holder2 {
+    max-width: 60%;
+    margin-left: 20px;
+    border-left: 3px solid aqua;
+    padding-left: 40px;
+}
+
+.skill-holder1 {
+    animation: fadeInAnimation ease 3.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.skill-holder2 {
+    animation: fadeInAnimation ease 4.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+#resume p {
+    font-size: 1.7em;
+}

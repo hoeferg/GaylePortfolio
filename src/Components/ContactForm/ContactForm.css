@@ -1,0 +1,100 @@
+.form-header {
+    animation: fadeInAnimation ease 3.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.customInput {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid aqua;
+    border-radius: 0;
+    outline: none;
+    min-height: 3rem;
+    width: 100%;
+    font-size: 16px;
+    margin: 0 0 8px 0;
+    padding: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    -webkit-transition: border .3s, -webkit-box-shadow .3s;
+    transition: border .3s, -webkit-box-shadow .3s;
+    transition: box-shadow .3s, border .3s;
+    transition: box-shadow .3s, border .3s, -webkit-box-shadow .3s;
+    overflow: visible;
+    color: white;
+    animation: fadeInAnimation ease 3.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.customTxtArea {
+    background-color: transparent;
+    border: 1px solid aqua;
+    border-radius: 0;
+    outline: none;
+    min-height: 2.3rem;
+    width: 100%;
+    font-size: 16px;
+    margin: 0 0 8px 0;
+    padding: 1%;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    -webkit-transition: border .3s, -webkit-box-shadow .3s;
+    transition: border .3s, -webkit-box-shadow .3s;
+    transition: box-shadow .3s, border .3s;
+    transition: box-shadow .3s, border .3s, -webkit-box-shadow .3s;
+    overflow: visible;
+    color: white;
+    animation: fadeInAnimation ease 4.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.formLabel {
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0.75rem;
+    font-size: 1rem;
+    cursor: text;
+    -webkit-transition: color .2s ease-out, -webkit-transform .2s ease-out;
+    transition: color .2s ease-out, -webkit-transform .2s ease-out;
+    transition: transform .2s ease-out, color .2s ease-out;
+    transition: transform .2s ease-out, color .2s ease-out, -webkit-transform .2s ease-out;
+    -webkit-transform-origin: 0% 100%;
+    transform-origin: 0% 100%;
+    text-align: initial;
+    -webkit-transform: translateY(12px);
+    transform: translateY(12px);
+    width: 100%;
+    box-sizing: inherit;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    font-weight: normal;
+}
+
+.form-helper-text {
+    position: relative;
+    min-height: 18px;
+    display: block;
+    font-size: 16px;
+    color: white;
+    box-sizing: inherit;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    animation: fadeInAnimation ease 4.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.form-button {
+    animation: fadeInAnimation ease 5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}

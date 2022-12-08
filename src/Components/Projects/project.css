@@ -1,0 +1,113 @@
+.content-card {
+    /* margin: 10px; */
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+    border: 7px solid aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 300px;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+}
+
+.fade-in-section {
+    opacity: 0;
+    transform: translateY(20vh);
+    visibility: hidden;
+    transition: opacity 0.6s ease-out, transform 1.2s ease-out;
+    will-change: opacity, visibility;
+}
+
+.fade-in-section.is-visible {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+}
+
+.content-card:hover {
+    cursor: pointer;
+}
+
+.content-card h4 {
+    max-width: 50%;
+    background-color:aqua;
+    padding: 10px;
+    font-size:2em;
+    color:black;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.content-card p {
+    visibility:hidden;
+    max-width: 70%;
+    font-size: 1.5em;
+    background-color: rgba(255,255,255,97%);
+    color: rgba(0,0,0,100%);
+    box-shadow: 10px 10px;
+    padding: 10px;
+}
+
+.content-card:hover p {
+    visibility: visible;
+}
+
+#assignment {
+    background-image: url("../../images/international-space-station-gf9596e7f1_1920.jpg");
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+#assignment1 {
+    background-image: url("../../images/social-media.jpg");
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+#assignment2 {
+    background-image: url("../../images/lightning-g8ee01b48f_1920.jpg");
+    animation: fadeInAnimation ease 3.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+#assignment3 {
+    background-image: url("../../images/typewriter.jpg");
+    animation: fadeInAnimation ease 3.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+#assignment4 {
+    background-image: url("../../images/ecommerce.jpg");
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+#assignment5 {
+    background-image: url("../../images/calendar.jpg");
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+/* #assignment6 {
+    background-image: url("../../images/WeatherPlanningDashboard.JPG");
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+#assignment7 {
+    background-image: url("../../images/Background\ 3.jpg");
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+} */
