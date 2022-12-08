@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ceba9817.css",
+    "main.js": "./static/js/main.a3a60a78.js",
+    "static/js/787.aeca62f9.chunk.js": "./static/js/787.aeca62f9.chunk.js",
+    "static/media/profile.jpg": "./static/media/profile.e0396b3df034aee48560.jpg",
+    "static/media/international-space-station-gf9596e7f1_1920.jpg": "./static/media/international-space-station-gf9596e7f1_1920.3a1e3b6f80312eec2e3d.jpg",
+    "static/media/typewriter.jpg": "./static/media/typewriter.578259b93f684598af17.jpg",
+    "static/media/social-media.jpg": "./static/media/social-media.9c21035fb00256a48af1.jpg",
+    "static/media/calendar.jpg": "./static/media/calendar.1546607d08da77bd8ca1.jpg",
+    "static/media/sea.jpg": "./static/media/sea.c949b66df3f76f5bc68f.jpg",
+    "static/media/lightning-g8ee01b48f_1920.jpg": "./static/media/lightning-g8ee01b48f_1920.8cbad6cd55b8c6930546.jpg",
+    "static/media/gayle.png": "./static/media/gayle.3932f7947ee24f1f63f7.png",
+    "static/media/ecommerce.jpg": "./static/media/ecommerce.608f2d63ae789b099ebc.jpg",
+    "static/media/hoeferGayleResume.pdf": "./static/media/hoeferGayleResume.6ca8533090140994c9a2.pdf",
+    "index.html": "./index.html",
+    "main.ceba9817.css.map": "./static/css/main.ceba9817.css.map",
+    "main.a3a60a78.js.map": "./static/js/main.a3a60a78.js.map",
+    "787.aeca62f9.chunk.js.map": "./static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceba9817.css",
+    "static/js/main.a3a60a78.js"
+  ]
+}
