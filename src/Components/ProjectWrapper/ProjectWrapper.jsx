@@ -23,7 +23,7 @@ export default function ProjectWrapper() {
         },
         {
             id: "assignment3", 
-            href: "https://git.heroku.com/service-worker-bootcamp.git", 
+            href: "https://service-worker-bootcamp.herokuapp.com/", 
             projectInfo: "Need a text editior? This text editor is downloadable and can be used both online and offline.",
             projectTitle: "Jate"
         },
@@ -37,7 +37,7 @@ export default function ProjectWrapper() {
             id: "assignment5", 
             href: "https://hoeferg.github.io/calender/", 
             projectInfo: "Are you in need of help keeping track of your busy day? Use this calender to help you keep track of what is happening throughout the day",
-            projectTitle: "Coding Quiz"
+            projectTitle: "Daily Calender"
         },
 
     ]
