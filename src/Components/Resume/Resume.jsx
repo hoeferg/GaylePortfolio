@@ -21,7 +21,7 @@ export default function Resume() {
             </div>
             <div className='skill-holder2'>
                 <p><SiSequelize/> MySQL & Sequelize</p>
-                <p><SiHandlebarsdotjs/> Templating Engines: Handlebars</p>
+                <p><SiHandlebarsdotjs/> Handlebars</p>
                 <p><SiMongodb/> MongoDB & Mongoose</p>
                 <p><SiPwa/> PWA</p>
                 <p><SiReact/> React</p>
