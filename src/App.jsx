@@ -24,6 +24,7 @@ function App() {
       case 'Projects': return <ProjectWrapper/>;
       case 'Resume': return <Resume/>;
       case 'Contact Me': return <ContactForm/>;
+      default: <AboutMe />; 
     }
   }
 
