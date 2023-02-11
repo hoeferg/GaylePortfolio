@@ -29,7 +29,7 @@ export default function ProjectWrapper() {
             href: "https://service-worker-bootcamp.herokuapp.com/", 
             projectInfo: "Need a text editior? This text editor is downloadable and can be used both online and offline.",
             projectTitle: "Jate",
-            projectGithub: "https://github.com/hoeferg/textEditor"
+            projectGithub: "https://github.com/hoeferg/Progressive-Web-Applucation"
         },
         {
             id: "assignment4", 
