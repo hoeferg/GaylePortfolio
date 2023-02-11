@@ -1,5 +1,7 @@
 # Gayle Hoefer's Portfolio
 
+<img src="portfolioGayle.png">
+
 ## Table of Contents  
 * [Description](##Description)  
 * [Technologies](##Technologies)  
@@ -20,10 +22,6 @@ This application will eventually host all my projects, but with pagination to av
 ## Deployed Application
 
 The deployed application is at https://hoeferg.github.io/GaylePortfolio/
-
-## Screenshot
-
-[! Screenshot] (./images/profileGayle.png)
 
 ## Installation
 
