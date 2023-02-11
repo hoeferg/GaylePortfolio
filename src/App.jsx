@@ -19,14 +19,14 @@ function App() {
   }
 
   let renderInfo = () => {
-    switch(page) {
-      case 'About Me': return <AboutMe/>;
-      case 'Projects': return <ProjectWrapper/>;
-      case 'Resume': return <Resume/>;
-      case 'Contact Me': return <ContactForm/>;
-      default: <AboutMe />; 
+      switch(page) {
+        case 'About Me': return <AboutMe/>;
+        case 'Projects': return <ProjectWrapper/>;
+        case 'Resume': return <Resume/>;
+        case 'Contact Me': return <ContactForm/>;
+        default: return <AboutMe/>;
+      }
     }
-  }
 
   return (
     <main>

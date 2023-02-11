@@ -7,6 +7,7 @@ export default function Project({projectInfo}) {
             <div></div>
             <p>{projectInfo.projectInfo}</p>
             <h4>{projectInfo.projectTitle} <AiFillGithub/></h4>
+            <p>{projectInfo.projectGithub}</p>
         </a>
     )
 }
