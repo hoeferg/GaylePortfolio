@@ -19,14 +19,25 @@ This application will eventually host all my projects, but with pagination to av
 
 ## Deployed Application
 
+The deployed application is at https://hoeferg.github.io/GaylePortfolio/
 
 ## Screenshot
 
----
+[! Screenshot] (./images/profileGayle.png)
 
 ## Installation
 
-N/A visit deployed page to view site. 
+1. Clone the repo
+   ```sh
+   git clone https://github.com/hoeferg/GaylePortfolio
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the application
+   ```sh
+   npm start
 
 
 ## License
