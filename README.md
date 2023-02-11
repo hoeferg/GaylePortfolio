@@ -44,7 +44,5 @@ No license
 
 ---
 
-## Questions
-
-If you have any follow up questions, feel free to reach out at gaylehoefer@gmail.com  
-GitHub: https://www.github.com/hoeferg
+## Contact
+Gayle Hoefer - [LinkedIn](https://www.linkedin.com/in/gayle-hoefer-61a2a3124/) - [Github](https://github.com/hoeferg)
