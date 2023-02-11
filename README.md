@@ -8,7 +8,7 @@
 * [Screenshot](##Screenshot)  
 * [Installation](##Installation)  
 * [License](##License)  
-* [Questions](##Questions)  
+* [Contact](##Contact)  
 
 ## Description
 
