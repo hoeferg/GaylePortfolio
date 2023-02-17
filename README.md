@@ -12,7 +12,7 @@
 
 ## Description
 
-This react web application is a portfollio of Gayle Hoefer's work. It includes an about me, portfolio, resume, and contact me section. This web application is meant to allow future employers to see what work Gayle has completed. It is also in an easily sharable link so that it can be added to Gayle's resume.
+This react web application is a portfollio of Gayle Hoefer's work. It includes an about me, portfolio, resume, and contact me section. This web application is meant to allow future employers to see what work Gayle has completed. 
 
 
 ### Future Development
