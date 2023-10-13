@@ -20,7 +20,7 @@ header {
 header div {
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     padding: 10px 20px 10px 10px;
     margin-left:10px;
     width: 50%;
