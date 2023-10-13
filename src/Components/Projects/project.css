@@ -56,6 +56,13 @@
     visibility: visible;
 }
 
+#assignment0 {
+    background-image: url("../../images/portfolioGayle.png");
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
 #assignment {
     background-image: url("../../images/international-space-station-gf9596e7f1_1920.jpg");
     animation: fadeInAnimation ease 2s;
