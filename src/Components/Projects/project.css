@@ -57,7 +57,7 @@
 }
 
 #assignment0 {
-    background-image: url("../../portfolioGayle.png");
+    background-image: url("../../images/portfolioGayle.png");
     animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
