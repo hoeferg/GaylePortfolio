@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.3c7acaae.css",
-    "main.js": "./static/js/main.aa260ce3.js",
+    "main.css": "./static/css/main.5a3d01cc.css",
+    "main.js": "./static/js/main.0186ade1.js",
     "static/js/787.126d6b1a.chunk.js": "./static/js/787.126d6b1a.chunk.js",
     "static/media/profile.jpg": "./static/media/profile.e0396b3df034aee48560.jpg",
     "static/media/portfolioGayle.png": "./static/media/portfolioGayle.fef6d394187a8dbbf8e1.png",
+    "static/media/hcdl.png": "./static/media/hcdl.729a29199b93d189bebe.png",
     "static/media/international-space-station-gf9596e7f1_1920.jpg": "./static/media/international-space-station-gf9596e7f1_1920.3a1e3b6f80312eec2e3d.jpg",
     "static/media/typewriter.jpg": "./static/media/typewriter.578259b93f684598af17.jpg",
     "static/media/social-media.jpg": "./static/media/social-media.9c21035fb00256a48af1.jpg",
-    "static/media/calendar.jpg": "./static/media/calendar.1546607d08da77bd8ca1.jpg",
     "static/media/sea.jpg": "./static/media/sea.c949b66df3f76f5bc68f.jpg",
     "static/media/lightning-g8ee01b48f_1920.jpg": "./static/media/lightning-g8ee01b48f_1920.8cbad6cd55b8c6930546.jpg",
     "static/media/gayle.png": "./static/media/gayle.3932f7947ee24f1f63f7.png",
     "static/media/ecommerce.jpg": "./static/media/ecommerce.608f2d63ae789b099ebc.jpg",
     "static/media/hoeferGayleResume.pdf": "./static/media/hoeferGayleResume.e9dcacd2bd6c7337b17a.pdf",
     "index.html": "./index.html",
-    "main.3c7acaae.css.map": "./static/css/main.3c7acaae.css.map",
-    "main.aa260ce3.js.map": "./static/js/main.aa260ce3.js.map",
+    "main.5a3d01cc.css.map": "./static/css/main.5a3d01cc.css.map",
+    "main.0186ade1.js.map": "./static/js/main.0186ade1.js.map",
     "787.126d6b1a.chunk.js.map": "./static/js/787.126d6b1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7acaae.css",
-    "static/js/main.aa260ce3.js"
+    "static/css/main.5a3d01cc.css",
+    "static/js/main.0186ade1.js"
   ]
 }
