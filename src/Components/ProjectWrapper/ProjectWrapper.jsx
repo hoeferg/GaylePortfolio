@@ -4,6 +4,12 @@ import Project from '../Projects/project'
 export default function ProjectWrapper() {
     let projectInfo = [
         {
+            id: "assignment5", 
+            href: "https://healthcare-download.com", 
+            projectInfo: "Healthcare Download is a healthcare analytics site where users can view their healthcare information. This includes health history, drug history, drug interactions, and health plan. I have on the team that has created this since January 2023.",
+            projectTitle: "Healthcare Download",
+        },
+        {
             id: "assignment0", 
             href: "https://hoeferg.github.io/GaylePortfolio//", 
             projectInfo: "This website was fun to create and is up to date with the latest projects I have completed. The technology used for the portfolio are express.js, react, node.js, javascript, and html5.",
@@ -45,14 +51,6 @@ export default function ProjectWrapper() {
             projectTitle: "Ecommerce",
             projectGithub: "https://github.com/hoeferg/Ecommerce"
         },
-        {
-            id: "assignment5", 
-            href: "https://hoeferg.github.io/calender/", 
-            projectInfo: "Are you in need of help keeping track of your busy day? Use this calender to help you keep track of what is happening throughout the day. The technology used for the calender are express.js, react, node.js, javascript, html5, and JSON web token.",
-            projectTitle: "Daily Calender",
-            projectGithub: "https://github.com/hoeferg/calender"
-        },
-
     ]
 
     return (
